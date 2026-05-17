@@ -1,5 +1,7 @@
 # INFOSYS-TCS-FINANCIAL-ANALYSIS
 
+<img width="1600" height="898" alt="WhatsApp Image 2026-05-18 at 12 47 13 AM (1)" src="https://github.com/user-attachments/assets/45711f89-3f21-492f-a00f-354d6e3eaf9a" />
+
 ## Overview
 
 This repository contains a comparative financial analysis of **Infosys**
@@ -62,11 +64,6 @@ Financial-statement-Excel/
 
 This project provides insights into the comparative financial strength
 and performance of Infosys and TCS over multiple years.
-
-## Output
-
-<img width="1600" height="898" alt="WhatsApp Image 2026-05-18 at 12 47 13 AM (1)" src="https://github.com/user-attachments/assets/45711f89-3f21-492f-a00f-354d6e3eaf9a" />
-
 
 ## Author
 
